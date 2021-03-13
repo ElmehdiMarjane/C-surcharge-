@@ -1,0 +1,13 @@
+C:\Users\elmeh\source\repos\BanquePr\bin\Debug\netcoreapp3.1\BanquePr.exe
+C:\Users\elmeh\source\repos\BanquePr\bin\Debug\netcoreapp3.1\BanquePr.deps.json
+C:\Users\elmeh\source\repos\BanquePr\bin\Debug\netcoreapp3.1\BanquePr.runtimeconfig.json
+C:\Users\elmeh\source\repos\BanquePr\bin\Debug\netcoreapp3.1\BanquePr.runtimeconfig.dev.json
+C:\Users\elmeh\source\repos\BanquePr\bin\Debug\netcoreapp3.1\BanquePr.dll
+C:\Users\elmeh\source\repos\BanquePr\bin\Debug\netcoreapp3.1\BanquePr.pdb
+C:\Users\elmeh\source\repos\BanquePr\obj\Debug\netcoreapp3.1\BanquePr.csprojAssemblyReference.cache
+C:\Users\elmeh\source\repos\BanquePr\obj\Debug\netcoreapp3.1\BanquePr.AssemblyInfoInputs.cache
+C:\Users\elmeh\source\repos\BanquePr\obj\Debug\netcoreapp3.1\BanquePr.AssemblyInfo.cs
+C:\Users\elmeh\source\repos\BanquePr\obj\Debug\netcoreapp3.1\BanquePr.csproj.CoreCompileInputs.cache
+C:\Users\elmeh\source\repos\BanquePr\obj\Debug\netcoreapp3.1\BanquePr.dll
+C:\Users\elmeh\source\repos\BanquePr\obj\Debug\netcoreapp3.1\BanquePr.pdb
+C:\Users\elmeh\source\repos\BanquePr\obj\Debug\netcoreapp3.1\BanquePr.genruntimeconfig.cache
